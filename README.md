@@ -6,5 +6,5 @@ This includes:
   a forward and back button
   Sound button (my app has duplicating 3x4 grid for each board)
   Long sound button (Use for longer soundbites that you wish to turn on and off)
-  
+  Also a buggy swipe menu to use inplace of forward and back buttons
 Have fun!  
